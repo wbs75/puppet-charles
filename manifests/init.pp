@@ -6,6 +6,6 @@
 class charles {
   package { 'Charles':
     provider => 'appdmg_eula_charles',
-    source   => 'http://c720206.r6.cf2.rackcdn.com/charles-proxy-3.7.dmg',
+    source   => 'http://cdn2.charlesproxy.com/release/3.8.3/charles-proxy-3.8.3a-applejava.dmg',
   }
 }
